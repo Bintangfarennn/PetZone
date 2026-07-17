@@ -1,0 +1,80 @@
+# Product Requirements Document (PRD)
+
+# PetZone - Website Klinik Hewan
+
+## 1. Ringkasan Produk
+PetZone adalah website klinik hewan yang menyediakan informasi layanan kesehatan hewan, artikel edukasi, serta media komunikasi antara pelanggan dan klinik. Website ini bertujuan memudahkan pemilik hewan mendapatkan informasi dan layanan secara online.
+
+---
+
+## 2. Tujuan Produk
+- Menyediakan informasi layanan klinik secara online.
+- Mempermudah pelanggan menghubungi klinik.
+- Memberikan edukasi mengenai kesehatan hewan.
+- Meningkatkan kepercayaan dan pelayanan kepada pelanggan.
+
+---
+
+## 3. Target Pengguna
+- Pemilik kucing
+- Pemilik anjing
+- Pemilik kelinci
+- Pemilik burung
+- Masyarakat yang membutuhkan layanan kesehatan hewan
+
+---
+
+## 4. Permasalahan
+- Informasi layanan klinik sulit diperoleh.
+- Pelanggan tidak mengetahui jam operasional.
+- Kurangnya informasi mengenai vaksinasi dan perawatan hewan.
+
+---
+
+## 5. Solusi
+Website PetZone menyediakan informasi lengkap mengenai layanan klinik, artikel edukasi, kontak, serta informasi jam operasional sehingga pelanggan dapat memperoleh informasi dengan cepat.
+
+---
+
+## 6. Fitur Utama
+
+### Beranda
+Menampilkan informasi singkat mengenai PetZone.
+
+### Layanan
+Menampilkan:
+- Pemeriksaan kesehatan
+- Vaksinasi
+- Grooming
+- Operasi hewan
+
+### Artikel
+Berisi artikel edukasi mengenai kesehatan hewan.
+
+### Kontak
+Berisi alamat, nomor telepon, email, dan WhatsApp klinik.
+
+---
+
+## 7. Kebutuhan Fungsional
+- Pengguna dapat melihat informasi layanan.
+- Pengguna dapat membaca artikel.
+- Pengguna dapat melihat kontak klinik.
+- Website dapat diakses melalui perangkat desktop maupun mobile.
+
+---
+
+## 8. Teknologi
+- HTML5
+- CSS3
+- GitHub
+- Vercel
+
+---
+
+## 9. Deployment
+Repository GitHub:
+https://github.com/Bintangfarennn/PetZone
+
+Website Online:
+https://petzone.vercel.app
